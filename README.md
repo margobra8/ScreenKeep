@@ -10,6 +10,7 @@ Information
 -------------
 
 This utility is written in **Python 3.5** with the use of **PyQt 5**. **Win32cmd** and **Win32api** modules also are used.
+
 The current language of this app is `ES-es` with translations coming in a near future.
 
 
