@@ -5,7 +5,6 @@ Screen Keep
 Python utility that **avoids the Windows screensaver** being triggered. Also prevents the computer from **going to hibernate/suspend** while in execution.
 
 ![ScreenKeep](https://i.imgur.com/mUERACW.png)
-----------
 
 Information
 -------------
