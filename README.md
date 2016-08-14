@@ -5,7 +5,7 @@ ScreenKeep
 Python utility that **avoids the Windows screensaver** being triggered. Also prevents the computer from **going to hibernate/suspend** while in execution.
 
 ![ScreenKeep](https://i.imgur.com/mUERACW.png)
-
+<p style='color:red'>This is some red text.</p>
 Information
 -------------
 
